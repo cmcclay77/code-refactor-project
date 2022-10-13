@@ -3,9 +3,7 @@
 
 ## Description
 
-This was a Code Refactoring Project that was recently completed.  I was tasked by a Marketing Agency to ensure that the refactored code followed accesibility standards and the website is optimized for search engines.
-I started by reviewing the existing code base and found areas where the HTML and CSS could be altered by combining items together and removing uneeded code.
-ALT elements were added to all images as is required.  I also made sure the headings followed in a sequential order.  Inside the code, I commented on certain areas where it would hopefully assist others when reading through the code in the future.  When the work was finished it was submitted to Horiseon for their approval.    
+This was a Code Refactoring Project that was recently completed.  I was tasked by a Marketing Agency to ensure that the refactored code followed accessibility standards and the website is optimized for search engines. I started by reviewing the existing code base and found areas where the HTML and CSS could be altered by combining items together and removing uneeded code. ALT elements were added to all images as is required.  I also made sure the headings followed in a sequential order.  Inside the code, I commented on certain areas where it would hopefully assist others when reading through the code in the future.  When the work was finished it was submitted to Horiseon for their approval.    
 
 ## Usage
 
