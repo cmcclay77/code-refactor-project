@@ -7,8 +7,7 @@ This was a Code Refactoring Project that was recently completed.  I was tasked b
 
 ## Usage
 
-The usage for this webpage project was to hopefully provide a more accessible UI for the end user by upgrading/refactoring the existing code.
-
+The usage for this webpage project was to hopefully provide a more accessible UI for the end user by upgrading/refactoring the existing code.  The live URL is https://cmcclay77.github.io/weekly-challenge-1/
 ## Credits
 
 Although I enjoy working in a group, this time I am the only one who contributed to finish this project.
